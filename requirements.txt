@@ -1,0 +1,10 @@
+langchain_core
+streamlit
+langchain
+langchain-community
+langchain_openai
+langchain-ollama
+sentence_transformers
+langchain_huggingface
+pdfplumber
+python-dotenv
