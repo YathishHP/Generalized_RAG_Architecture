@@ -1,1 +1,1 @@
-# Gen-AI-With-starcoder:3b
+# Gen-AI-Rag-Model-chatbot
